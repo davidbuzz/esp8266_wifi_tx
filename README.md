@@ -24,7 +24,7 @@ see also TODO file.
 
 ![Classic ESP8266 module](/web/esp8266.jpg?raw=true "Classic ESP8266 module")
 
-![Example Dev PCB with ESP8266 module](/web/es-l500.jpg?raw=true "Example Dev PCB with ESP8266 module]")
+![Example Dev PCB with ESP8266 module](/web/s-l500.jpg?raw=true "Example Dev PCB with ESP8266 module]")
 
 [See a video of the prototype here!](https://www.youtube.com/watch?v=6-0GJ21oUO4&spfreload=10)
 
