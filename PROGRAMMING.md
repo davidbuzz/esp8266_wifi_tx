@@ -20,6 +20,10 @@ Open Boards Manager from Tools > Board menu and install esp8266 platform
 
 Depending on the specific ESP8266 based board, you will need to determine how you program it.    
 
+lots of slightly different boards:
+  
+http://l0l.org.uk/2014/12/esp8266-modules-hardware-guide-gotta-catch-em-all/
+
 eg1: 
 
 With a pcb labeled 'nodemcu devkit 0.9', this has a USB port, and runs serial-over-usb with a CH340 chip ( it's just like a FTDI, only chinese and needs a different driver ). 
