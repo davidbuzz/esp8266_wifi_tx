@@ -31,3 +31,6 @@ https://learn.sparkfun.com/tutorials/esp8266-wifi-shield-hookup-guide/re-program
 http://iot-playground.com/2-uncategorised/38-esp8266-and-arduino-ide-blink-example
 
 
+![How to wire the Classic ESP8266](/web/esp8266-reflash.png?raw=true "How to wire the Classic ESP8266")
+
+
