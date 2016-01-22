@@ -1,4 +1,4 @@
-TODO:  you must poweron the TX before you power on the RX, as the tx is a wifi "access point", and the RX will not be able to "join" the network if its not there.
+TODO:  you must poweron the TX before you power on the RX, as the tx is a wifi "access point", and the RX will not be able to "join" the network if its not there.  Similarly, if the TX looses power for any reason, the RX will NOT reconnect, and you need to reboot the RX afterward. 
 
 TODO:  the PPM input pulses from the TX are NOT read using a "timer capture" or interrupt routine, instead via a busy-wait loop.  This can result in some jitter, so we have a dead-band in software to minimise this.  Better to to it right. 
 
